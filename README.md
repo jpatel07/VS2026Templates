@@ -81,13 +81,3 @@ Build and run tests immediately after creation.
 
 ---
 
-## License
-
-MIT
-
-```
-
----
-
-If you want an **ultra-minimal** version (≈10 lines) or a **screenshot-friendly** README, I can do that too.
-```
